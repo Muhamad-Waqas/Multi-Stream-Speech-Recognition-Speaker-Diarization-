@@ -1,4 +1,6 @@
-# 🎙️ MultiStream STT — Speech-to-Text & Speaker Diarization  (KPITB AI/ML Course — Batch 2 | Final Project)
+# 🎙️ MultiStream STT — Speech-to-Text & Speaker Diarization 
+
+### KPITB AI/ML Course — Batch 2 | Final Project
 
 
 A GPU-accelerated speech intelligence pipeline for processing multiple audio/video files, generating timestamped transcripts and speaker-labelled speech segments using NVIDIA Parakeet-TDT and Sortformer.
