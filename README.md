@@ -1,4 +1,6 @@
-# 🎙️ MultiStream STT Studio (30 files)
+# 🎙️ MultiStream STT — Speech-to-Text & Speaker Diarization
+
+A GPU-accelerated speech intelligence pipeline for processing multiple audio/video files, generating timestamped transcripts and speaker-labelled speech segments using NVIDIA Parakeet-TDT and Sortformer.
 
 Upload or point to **up to 30 videos / audio files** and get a **speaker-labelled transcript with timestamps** for each,
 plus a live dashboard with **processing time of every file and GPU / CPU / memory usage**.
