@@ -1,0 +1,7 @@
+# Install a CUDA build of PyTorch FIRST (see README, step 3), then:
+streamlit>=1.40
+numpy>=1.24
+imageio-ffmpeg>=0.5.1
+psutil>=5.9            # CPU / RAM on the dashboard
+nvidia-ml-py>=12       # GPU utilization / memory / temperature / power on the dashboard (falls back to nvidia-smi without it)
+nemo_toolkit[asr]
